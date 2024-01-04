@@ -72,12 +72,13 @@ Before you begin, ensure you have met the following requirements:
 #### Add New Employee Information
 1. Navigate to the add employee url (add-emp/) page to add the Employee details.
 
-  <img width="960" alt="add_employees_EMS" src="https://github.com/vivekmogalla/Employee-Management-System/assets/131423732/ffd2be0d-8812-4ea2-9524-187552a071cd">
+   <img width="960" alt="add_employees_EMS" src="https://github.com/vivekmogalla/Employee-Management-System/assets/131423732/ffd2be0d-8812-4ea2-9524-187552a071cd">
 
 
 #### Edit Employee Info
 1. Navigate to the Edit employee url (update-emp/<int:emp_id>/) page to update the Existing employee details.
-  <img width="960" alt="update_emp_ems" src="https://github.com/vivekmogalla/Employee-Management-System/assets/131423732/22451ab4-4c49-4341-b36d-0ca5f40123ce">
+   
+   <img width="960" alt="update_emp_ems" src="https://github.com/vivekmogalla/Employee-Management-System/assets/131423732/22451ab4-4c49-4341-b36d-0ca5f40123ce">
 
 
 #### Delete Employee Info
@@ -86,7 +87,7 @@ Before you begin, ensure you have met the following requirements:
 #### Employee Home Page
 1. Navigate to the Employee Home Page url ("home/") page.
 
-  <img width="960" alt="home_view_ems" src="https://github.com/vivekmogalla/Employee-Management-System/assets/131423732/93055fa3-5ffc-4994-97ca-09872c982e1c">
+   <img width="960" alt="home_view_ems" src="https://github.com/vivekmogalla/Employee-Management-System/assets/131423732/93055fa3-5ffc-4994-97ca-09872c982e1c">
 
 
 
