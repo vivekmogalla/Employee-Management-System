@@ -27,7 +27,7 @@ def add_emp(request):
 
 
 def update_emp(request, emp_id):
-    emp = get_object_or_404(Employee, pk=emp_id)
+    emp = get_object_or_404(Employee, employee_id=emp_id)
 
     if request.method == 'POST':
         emp.name = request.POST.get("emp_name")
