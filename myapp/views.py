@@ -43,6 +43,6 @@ def update_emp(request, emp_id):
 
 
 def delete_emp(request, emp_id):
-    emp = get_object_or_404(Employee, pk=emp_id)
+    emp = get_object_or_404(Employee, employee_id=emp_id)
     emp.delete()
     return redirect("home")
